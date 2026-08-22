@@ -1,8 +1,10 @@
 # vodafone-cash-dashboard
-(e.g. 'Excel dashboard analyzing 5,000 digital wallet transactions')
+Excel dashboard analyzing 5,000 digital wallet transactions.
 Vodafone Cash — Digital Wallet Transactions Dashboard
 My first data analytics dashboard, built in Excel as part of my data analytics diploma coursework (Route Academy). It analyzes 5,000 digital wallet transactions to uncover patterns in revenue, payment methods, and user behavior.
-![Dashboard preview](dashboard_preview.png)
+![Dashboard Preview](dashboard-preview.png)
+## Dowenload
+[Download Dashboard (Excel)](./Vodafon Cash Dashboard.xlsx)
 📌 Project Overview
 Digital wallets like Vodafone Cash generate large volumes of transaction data every day. This project simulates the kind of analysis a business analyst would run to understand where revenue comes from, how customers pay, and who is using the platform — turning a raw transaction log into decision-ready insights.
 🎯 Objectives
